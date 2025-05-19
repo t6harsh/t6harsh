@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Harsh Pratap Singh!<br>🚀 Software Engineer | Data Scientist | ML Enthusiast<br><br>🔍 Exploring Machine Learning and Web Development<br>🏗️ Building AI-driven automation & sustainable tech solutions<br>📚 Pursuing Data Science, Programming & PCM<br>💡 Passionate about ML workflows, optimization & real-world AI applications<br>🌐 Check out my projects: ML models, automation, & sustainability tech
+👋 Hi, I'm Harsh Pratap Singh!<br>🚀 Software Engineer | Data Scientist | ML Enthusiast<br><br>🔍 Exploring Machine Learning and Web Development<br>🏗️ Building AI-driven automation & sustainable tech solutions<br>🎓 Currently pursuing a B.S. in Data Science and Programming<br>🎓 Completed a B.Sc. in Physics, Chemistry, and Mathematics (PCM)<br>💡 Passionate about ML workflows, optimization & real-world AI applications<br>🌐 Check out my projects: ML models, automation, & sustainability tech
 
 
 ## 🌐 Socials:
