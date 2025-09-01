@@ -141,7 +141,7 @@
   <a href="https://github.com/t6harsh" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="mailto:harsh.pratap9904@gmail.com?subject=Hi%20Harsh&body=Hi%2C%20Harsh.%20Got%20your%20mail%20id%20from%20GitHub%2C%20can%20we%20connect%20%3F">
+  <a href="mailto:harsh.pratap9904@gmail.com?subject=Hi%20Harsh&body=Hi%2C%20Harsh.%20Got%20your%20mail%20from%20GitHub%2C%20can%20we%20connect%20%3F">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.instagram.com/t6harsh/" target="_blank">
