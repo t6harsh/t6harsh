@@ -44,8 +44,8 @@ Malware prediction from high-dimensional system telemetry data. feature engineer
 ## GitHub
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=t6harsh&theme=dark&hide_border=true&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff" alt="GitHub Streak" width="54%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t6harsh&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="39%"/>
+  <img src="https://streak-stats.demolab.com/?user=t6harsh&theme=dark&hide_border=true&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff" alt="GitHub Streak" width="54%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t6harsh&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="39%"/>
 </p>
 
 <br>
