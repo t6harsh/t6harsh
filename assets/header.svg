@@ -1,0 +1,40 @@
+<svg width="888" height="180" viewBox="0 0 888 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#bc8cff"/>
+      <stop offset="100%" stop-color="#f778ba"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    .name {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      letter-spacing: 8px;
+      fill: #e6edf3;
+    }
+    .tagline {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 400;
+      letter-spacing: 4px;
+      fill: #8b949e;
+    }
+    @media (prefers-color-scheme: light) {
+      .name { fill: #1f2328; }
+      .tagline { fill: #656d76; }
+    }
+  </style>
+
+  <text x="444" y="72" text-anchor="middle" class="name">HARSH PRATAP SINGH</text>
+  <line x1="314" y1="98" x2="574" y2="98" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" filter="url(#glow)"/>
+  <text x="444" y="138" text-anchor="middle" class="tagline">DATA SCIENTIST · AI/ML ENGINEER</text>
+</svg>
