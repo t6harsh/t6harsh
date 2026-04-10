@@ -44,16 +44,8 @@ Malware prediction from high-dimensional system telemetry data. feature engineer
 ## GitHub
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=t6harsh&theme=transparent&hide_border=true&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff&sideLabels=8b949e&sideNums=e6edf3&currStreakNum=e6edf3&dates=8b949e"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=t6harsh&theme=transparent&hide_border=true&ring=0969da&fire=8250df&currStreakLabel=0969da&sideLabels=656d76&sideNums=1f2328&currStreakNum=1f2328&dates=656d76"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=t6harsh&theme=transparent&hide_border=true&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff" alt="GitHub Streak" width="54%"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=t6harsh&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=t6harsh&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=656d76"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t6harsh&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="39%"/>
-  </picture>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=t6harsh&theme=dark&hide_border=true&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff" alt="GitHub Streak" width="54%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t6harsh&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="39%"/>
 </p>
 
 <br>
